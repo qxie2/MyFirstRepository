@@ -1,1 +1,3 @@
 # MyFirstRepository
+
+Sharing is easy
