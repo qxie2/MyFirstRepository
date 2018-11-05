@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-Sharing is easy
+Sharing is easy, another sharing
